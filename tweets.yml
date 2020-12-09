@@ -1,0 +1,2085 @@
+---
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Mon Dec 07 20:41:01 +0000 2020
+    :id: 1336048086951616515
+    :id_str: '1336048086951616515'
+    :text: 'RSpec - A Gentle Introduction to Testing: https://t.co/Nqu8NsgUbB'
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/Nqu8NsgUbB
+        :expanded_url: https://longliveruby.com/articles/introduction-to-rspec
+        :display_url: longliveruby.com/articles/intro…
+        :indices:
+        - 42
+        - 65
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 10
+    :favorite_count: 46
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'RSpec - A Gentle Introduction to Testing: https://t.co/Nqu8NsgUbB'
+        :full_text: 'RSpec - A Gentle Introduction to Testing: https://t.co/Nqu8NsgUbB'
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Mon Dec 07 15:38:00 +0000 2020
+    :id: 1335971833166901249
+    :id_str: '1335971833166901249'
+    :text: 'Automatically Run Migrations When Pushing to Heroku: https://t.co/w6j0uoTh9s
+      (I''ve been using Heroku for years and… https://t.co/QHVs7g9Zk9'
+    :truncated: true
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/w6j0uoTh9s
+        :expanded_url: https://rubyyagi.com/auto-migrate-heroku/
+        :display_url: rubyyagi.com/auto-migrate-h…
+        :indices:
+        - 53
+        - 76
+      - :url: https://t.co/QHVs7g9Zk9
+        :expanded_url: https://twitter.com/i/web/status/1335971833166901249
+        :display_url: twitter.com/i/web/status/1…
+        :indices:
+        - 116
+        - 139
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 6
+    :favorite_count: 20
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Automatically Run Migrations When Pushing to Heroku: https://t.co/w6j0uoTh9s
+          (I''ve been using Heroku for years and… https://t.co/QHVs7g9Zk9'
+        :full_text: 'Automatically Run Migrations When Pushing to Heroku: https://t.co/w6j0uoTh9s
+          (I''ve been using Heroku for years and… https://t.co/QHVs7g9Zk9'
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Mon Dec 07 01:26:00 +0000 2020
+    :id: 1335757420589699075
+    :id_str: '1335757420589699075'
+    :text: 'trueMail 2.2: A Ruby Email Validator and Verifier - https://t.co/grAYszVCKF'
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/grAYszVCKF
+        :expanded_url: https://truemail-rb.org/truemail-gem/#/
+        :display_url: truemail-rb.org/truemail-gem/#/
+        :indices:
+        - 52
+        - 75
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 7
+    :favorite_count: 39
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: es
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'trueMail 2.2: A Ruby Email Validator and Verifier - https://t.co/grAYszVCKF'
+        :full_text: 'trueMail 2.2: A Ruby Email Validator and Verifier - https://t.co/grAYszVCKF'
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Sun Dec 06 18:41:01 +0000 2020
+    :id: 1335655500759896064
+    :id_str: '1335655500759896064'
+    :text: 'RubyMine 2020.3 Released: https://t.co/W0I4nBnN25'
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/W0I4nBnN25
+        :expanded_url: https://blog.jetbrains.com/ruby/2020/12/rubymine-2020-3-released/
+        :display_url: blog.jetbrains.com/ruby/2020/12/r…
+        :indices:
+        - 26
+        - 49
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 7
+    :favorite_count: 13
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: ht
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'RubyMine 2020.3 Released: https://t.co/W0I4nBnN25'
+        :full_text: 'RubyMine 2020.3 Released: https://t.co/W0I4nBnN25'
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Sun Dec 06 10:13:01 +0000 2020
+    :id: 1335527657652576256
+    :id_str: '1335527657652576256'
+    :text: 'Squash ''Unexpected `end`'' Errors with `syntax_search`: https://t.co/decThMiq0P'
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/decThMiq0P
+        :expanded_url: https://schneems.com/2020/12/01/squash-unexpectedend-errors-with-syntaxsearch/
+        :display_url: schneems.com/2020/12/01/squ…
+        :indices:
+        - 55
+        - 78
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 2
+    :favorite_count: 13
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Squash ''Unexpected `end`'' Errors with `syntax_search`: https://t.co/decThMiq0P'
+        :full_text: 'Squash ''Unexpected `end`'' Errors with `syntax_search`: https://t.co/decThMiq0P'
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Sat Dec 05 16:56:01 +0000 2020
+    :id: 1335266689148215296
+    :id_str: '1335266689148215296'
+    :text: 'The 2020 Ruby Advent Calendar 2020: https://t.co/2Tri6Solzk (An article
+      per day about a Ruby gem. So far, `local_ti… https://t.co/FwSkETRZYu'
+    :truncated: true
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/2Tri6Solzk
+        :expanded_url: http://planetruby.github.io/gems/
+        :display_url: planetruby.github.io/gems/
+        :indices:
+        - 36
+        - 59
+      - :url: https://t.co/FwSkETRZYu
+        :expanded_url: https://twitter.com/i/web/status/1335266689148215296
+        :display_url: twitter.com/i/web/status/1…
+        :indices:
+        - 117
+        - 140
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 6
+    :favorite_count: 35
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'The 2020 Ruby Advent Calendar 2020: https://t.co/2Tri6Solzk (An article
+          per day about a Ruby gem. So far, `local_ti… https://t.co/FwSkETRZYu'
+        :full_text: 'The 2020 Ruby Advent Calendar 2020: https://t.co/2Tri6Solzk (An
+          article per day about a Ruby gem. So far, `local_ti… https://t.co/FwSkETRZYu'
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Fri Dec 04 20:54:00 +0000 2020
+    :id: 1334964193364226059
+    :id_str: '1334964193364226059'
+    :text: "`Enumerable#tally`: https://t.co/Twwx6WGwhF"
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/Twwx6WGwhF
+        :expanded_url: https://scottw.com/blog/tally/
+        :display_url: scottw.com/blog/tally/
+        :indices:
+        - 20
+        - 43
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 1
+    :favorite_count: 37
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: "`Enumerable#tally`: https://t.co/Twwx6WGwhF"
+        :full_text: "`Enumerable#tally`: https://t.co/Twwx6WGwhF"
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Fri Dec 04 16:50:00 +0000 2020
+    :id: 1334902789231800321
+    :id_str: '1334902789231800321'
+    :text: 'How to Call Shell Commands From Ruby: https://t.co/XQL2gQs4xs'
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/XQL2gQs4xs
+        :expanded_url: https://stackoverflow.com/q/2232/3951
+        :display_url: stackoverflow.com/q/2232/3951
+        :indices:
+        - 38
+        - 61
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 6
+    :favorite_count: 21
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'How to Call Shell Commands From Ruby: https://t.co/XQL2gQs4xs'
+        :full_text: 'How to Call Shell Commands From Ruby: https://t.co/XQL2gQs4xs'
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Fri Dec 04 03:07:01 +0000 2020
+    :id: 1334695676618416130
+    :id_str: '1334695676618416130'
+    :text: 'Migrating Classic Slack Ruby Bots to Granular Permissions: https://t.co/Qa752Q4owv'
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/Qa752Q4owv
+        :expanded_url: https://code.dblock.org/2020/11/30/migrating-classic-slack-ruby-bots-to-granular-permissions.html
+        :display_url: code.dblock.org/2020/11/30/mig…
+        :indices:
+        - 59
+        - 82
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 0
+    :favorite_count: 10
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Migrating Classic Slack Ruby Bots to Granular Permissions: https://t.co/Qa752Q4owv'
+        :full_text: 'Migrating Classic Slack Ruby Bots to Granular Permissions: https://t.co/Qa752Q4owv'
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Thu Dec 03 23:51:01 +0000 2020
+    :id: 1334646353213972480
+    :id_str: '1334646353213972480'
+    :text: 'Building a Multi-Tenant Rails App with Subdomains: https://t.co/KalTBtcgyh
+      (Multi-tenant apps can use single or mul… https://t.co/j6MZHd8TrE'
+    :truncated: true
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/KalTBtcgyh
+        :expanded_url: https://blog.appsignal.com/2020/12/02/building-a-multi-tenant-ruby-on-rails-app-with-subdomains.html
+        :display_url: blog.appsignal.com/2020/12/02/bui…
+        :indices:
+        - 51
+        - 74
+      - :url: https://t.co/j6MZHd8TrE
+        :expanded_url: https://twitter.com/i/web/status/1334646353213972480
+        :display_url: twitter.com/i/web/status/1…
+        :indices:
+        - 117
+        - 140
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 9
+    :favorite_count: 53
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Building a Multi-Tenant Rails App with Subdomains: https://t.co/KalTBtcgyh
+          (Multi-tenant apps can use single or mul… https://t.co/j6MZHd8TrE'
+        :full_text: 'Building a Multi-Tenant Rails App with Subdomains: https://t.co/KalTBtcgyh
+          (Multi-tenant apps can use single or mul… https://t.co/j6MZHd8TrE'
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Thu Dec 03 20:41:00 +0000 2020
+    :id: 1334598534444806151
+    :id_str: '1334598534444806151'
+    :text: 'Why You Shouldn’t Inherit From Ruby’s Core Classes (and What to Do Instead):
+      https://t.co/QVDsm9P8Su (A newly-free… https://t.co/iM8PzP0zD0'
+    :truncated: true
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/QVDsm9P8Su
+        :expanded_url: https://avdi.codes/why-you-shouldnt-inherit-from-rubys-core-classes-and-what-to-do-instead/
+        :display_url: avdi.codes/why-you-should…
+        :indices:
+        - 77
+        - 100
+      - :url: https://t.co/iM8PzP0zD0
+        :expanded_url: https://twitter.com/i/web/status/1334598534444806151
+        :display_url: twitter.com/i/web/status/1…
+        :indices:
+        - 116
+        - 139
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 6
+    :favorite_count: 24
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Why You Shouldn’t Inherit From Ruby’s Core Classes (and What to Do
+          Instead): https://t.co/QVDsm9P8Su (A newly-free… https://t.co/iM8PzP0zD0'
+        :full_text: 'Why You Shouldn’t Inherit From Ruby’s Core Classes (and What
+          to Do Instead): https://t.co/QVDsm9P8Su (A newly-free… https://t.co/iM8PzP0zD0'
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Thu Dec 03 16:57:01 +0000 2020
+    :id: 1334542164383162369
+    :id_str: '1334542164383162369'
+    :text: '1.5 is the Midpoint Between 0 and Infinity in Ruby: https://t.co/uS5agEJRyu'
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/uS5agEJRyu
+        :expanded_url: https://blog.peterzhu.ca/ruby-range-bsearch/
+        :display_url: blog.peterzhu.ca/ruby-range-bse…
+        :indices:
+        - 52
+        - 75
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 0
+    :favorite_count: 4
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: '1.5 is the Midpoint Between 0 and Infinity in Ruby: https://t.co/uS5agEJRyu'
+        :full_text: '1.5 is the Midpoint Between 0 and Infinity in Ruby: https://t.co/uS5agEJRyu'
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Tue Dec 01 18:41:00 +0000 2020
+    :id: 1333843559506710528
+    :id_str: '1333843559506710528'
+    :text: 'Matestack: Rails Views ''Reimagined'' - https://t.co/PQ4fRz8zJO'
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/PQ4fRz8zJO
+        :expanded_url: https://www.matestack.io/
+        :display_url: matestack.io
+        :indices:
+        - 38
+        - 61
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 3
+    :favorite_count: 32
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Matestack: Rails Views ''Reimagined'' - https://t.co/PQ4fRz8zJO'
+        :full_text: 'Matestack: Rails Views ''Reimagined'' - https://t.co/PQ4fRz8zJO'
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Tue Dec 01 13:08:00 +0000 2020
+    :id: 1333759756775923713
+    :id_str: '1333759756775923713'
+    :text: 'Hunting Down the Ruby ''Inplace'' Bug: https://t.co/EaIvg4insi (A writeup
+      of an epic quest to find and slay a string… https://t.co/3069ZuyMut'
+    :truncated: true
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/EaIvg4insi
+        :expanded_url: https://blog.peterzhu.ca/ruby-inplace-bug/
+        :display_url: blog.peterzhu.ca/ruby-inplace-b…
+        :indices:
+        - 37
+        - 60
+      - :url: https://t.co/3069ZuyMut
+        :expanded_url: https://twitter.com/i/web/status/1333759756775923713
+        :display_url: twitter.com/i/web/status/1…
+        :indices:
+        - 116
+        - 139
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 2
+    :favorite_count: 10
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Hunting Down the Ruby ''Inplace'' Bug: https://t.co/EaIvg4insi (A
+          writeup of an epic quest to find and slay a string… https://t.co/3069ZuyMut'
+        :full_text: 'Hunting Down the Ruby ''Inplace'' Bug: https://t.co/EaIvg4insi
+          (A writeup of an epic quest to find and slay a string… https://t.co/3069ZuyMut'
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Tue Dec 01 06:26:00 +0000 2020
+    :id: 1333658590872297472
+    :id_str: '1333658590872297472'
+    :text: When Should You Upgrade Your Rails Application? https://t.co/rzSgl7PsJr
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/rzSgl7PsJr
+        :expanded_url: https://blog.planetargon.com/entries/when-should-you-upgrade-your-rails-application
+        :display_url: blog.planetargon.com/entries/when-s…
+        :indices:
+        - 48
+        - 71
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 4
+    :favorite_count: 23
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: When Should You Upgrade Your Rails Application? https://t.co/rzSgl7PsJr
+        :full_text: When Should You Upgrade Your Rails Application? https://t.co/rzSgl7PsJr
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Mon Nov 30 20:41:01 +0000 2020
+    :id: 1333511373461000203
+    :id_str: '1333511373461000203'
+    :text: 'How RubyRussia 2020 Took a Large Ruby Event Online: https://t.co/eHxON5PUh1'
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/eHxON5PUh1
+        :expanded_url: https://evrone.com/rubyrussia-2020
+        :display_url: evrone.com/rubyrussia-2020
+        :indices:
+        - 52
+        - 75
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 1
+    :favorite_count: 25
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'How RubyRussia 2020 Took a Large Ruby Event Online: https://t.co/eHxON5PUh1'
+        :full_text: 'How RubyRussia 2020 Took a Large Ruby Event Online: https://t.co/eHxON5PUh1'
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Mon Nov 30 16:16:16 +0000 2020
+    :id: 1333444747877343233
+    :id_str: '1333444747877343233'
+    :text: "RT @_swanson: \U0001F381 Unwrap a new Ruby gem every day until Christmas
+      with the Ruby Advent Calendar. Psst, it's starting tomorrow!\n\nhttps://t.co/…"
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions:
+      - :screen_name: _swanson
+        :name: "matt swanson \U0001F914 \U0001F9A2"
+        :id: 113223946
+        :id_str: '113223946'
+        :indices:
+        - 3
+        - 12
+      :urls: []
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :retweeted_status: &1
+      :created_at: Mon Nov 30 15:15:01 +0000 2020
+      :id: 1333429333638209542
+      :id_str: '1333429333638209542'
+      :text: "\U0001F381 Unwrap a new Ruby gem every day until Christmas with the
+        Ruby Advent Calendar. Psst, it's starting tomorrow!\n\nhttps://t.co/MIkbArwzzR"
+      :truncated: false
+      :entities:
+        :hashtags: []
+        :symbols: []
+        :user_mentions: []
+        :urls:
+        - :url: https://t.co/MIkbArwzzR
+          :expanded_url: https://planetruby.github.io/gems/
+          :display_url: planetruby.github.io/gems/
+          :indices:
+          - 112
+          - 135
+      :source: <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+      :in_reply_to_status_id: 
+      :in_reply_to_status_id_str: 
+      :in_reply_to_user_id: 
+      :in_reply_to_user_id_str: 
+      :in_reply_to_screen_name: 
+      :user:
+        :id: 113223946
+        :id_str: '113223946'
+        :name: "matt swanson \U0001F914 \U0001F9A2"
+        :screen_name: _swanson
+        :location: Indianapolis, IN
+        :description: Contrarian-in-training. Building products. Karl Pilkington is
+          my spirit animal. Hacking on @boringrails @slotbacklabs
+        :url: https://t.co/bO4wCZYlpZ
+        :entities:
+          :url:
+            :urls:
+            - :url: https://t.co/bO4wCZYlpZ
+              :expanded_url: http://mdswanson.com
+              :display_url: mdswanson.com
+              :indices:
+              - 0
+              - 23
+          :description:
+            :urls: []
+        :protected: false
+        :followers_count: 1973
+        :friends_count: 30
+        :listed_count: 70
+        :created_at: Thu Feb 11 03:09:41 +0000 2010
+        :favourites_count: 1899
+        :utc_offset: 
+        :time_zone: 
+        :geo_enabled: false
+        :verified: false
+        :statuses_count: 9382
+        :lang: 
+        :contributors_enabled: false
+        :is_translator: false
+        :is_translation_enabled: false
+        :profile_background_color: '000000'
+        :profile_background_image_url: http://abs.twimg.com/images/themes/theme14/bg.gif
+        :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme14/bg.gif
+        :profile_background_tile: false
+        :profile_image_url: http://pbs.twimg.com/profile_images/1257015219437678593/mRPnGJ1O_normal.jpg
+        :profile_image_url_https: https://pbs.twimg.com/profile_images/1257015219437678593/mRPnGJ1O_normal.jpg
+        :profile_banner_url: https://pbs.twimg.com/profile_banners/113223946/1494975144
+        :profile_link_color: B27E23
+        :profile_sidebar_border_color: '000000'
+        :profile_sidebar_fill_color: '000000'
+        :profile_text_color: '000000'
+        :profile_use_background_image: false
+        :has_extended_profile: false
+        :default_profile: false
+        :default_profile_image: false
+        :following: false
+        :follow_request_sent: false
+        :notifications: false
+        :translator_type: regular
+      :geo: 
+      :coordinates: 
+      :place: 
+      :contributors: 
+      :is_quote_status: false
+      :retweet_count: 18
+      :favorite_count: 60
+      :favorited: false
+      :retweeted: false
+      :possibly_sensitive: false
+      :lang: en
+    :is_quote_status: false
+    :retweet_count: 18
+    :favorite_count: 0
+    :favorited: false
+    :retweeted: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: true
+        :text: "RT @_swanson: \U0001F381 Unwrap a new Ruby gem every day until Christmas
+          with the Ruby Advent Calendar. Psst, it's starting tomorrow!\n\nhttps://t.co/…"
+        :retweeted_status: !ruby/object:Twitter::Tweet
+          attrs: *1
+          _memoized_method_cache: !ruby/object:Memoizable::Memory
+            memory: !ruby/object:ThreadSafe::Cache
+              backend:
+                :text: "\U0001F381 Unwrap a new Ruby gem every day until Christmas
+                  with the Ruby Advent Calendar. Psst, it's starting tomorrow!\n\nhttps://t.co/MIkbArwzzR"
+              default_proc: 
+            monitor: !ruby/object:Monitor {}
+        :full_text: "RT @_swanson: \U0001F381 Unwrap a new Ruby gem every day until
+          Christmas with the Ruby Advent Calendar. Psst, it's starting tomorrow!\n\nhttps://t.co/MIkbArwzzR"
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Mon Nov 30 15:38:01 +0000 2020
+    :id: 1333435120280350721
+    :id_str: '1333435120280350721'
+    :text: How Fast Are Ractors?  https://t.co/LAX8p4dOkS
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/LAX8p4dOkS
+        :expanded_url: https://www.fastruby.io/blog/ruby/performance/how-fast-are-ractors.html
+        :display_url: fastruby.io/blog/ruby/perf…
+        :indices:
+        - 23
+        - 46
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 7
+    :favorite_count: 29
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: How Fast Are Ractors?  https://t.co/LAX8p4dOkS
+        :full_text: How Fast Are Ractors?  https://t.co/LAX8p4dOkS
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Mon Nov 30 01:26:00 +0000 2020
+    :id: 1333220705299787784
+    :id_str: '1333220705299787784'
+    :text: 'Using Cloudfront CDN to Reduce Asset Delivery Time From 30 Seconds to
+      3 Seconds: https://t.co/YQYDcNme56 (And how t… https://t.co/LbJCYcisFM'
+    :truncated: true
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/YQYDcNme56
+        :expanded_url: https://blog.bigbinary.com/2020/11/24/using-cloudfront-cdn-to-reduce-asset-delivery-time-from-30-seconds-to-3-seconds.html
+        :display_url: blog.bigbinary.com/2020/11/24/usi…
+        :indices:
+        - 81
+        - 104
+      - :url: https://t.co/LbJCYcisFM
+        :expanded_url: https://twitter.com/i/web/status/1333220705299787784
+        :display_url: twitter.com/i/web/status/1…
+        :indices:
+        - 117
+        - 140
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 3
+    :favorite_count: 22
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Using Cloudfront CDN to Reduce Asset Delivery Time From 30 Seconds
+          to 3 Seconds: https://t.co/YQYDcNme56 (And how t… https://t.co/LbJCYcisFM'
+        :full_text: 'Using Cloudfront CDN to Reduce Asset Delivery Time From 30 Seconds
+          to 3 Seconds: https://t.co/YQYDcNme56 (And how t… https://t.co/LbJCYcisFM'
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Sun Nov 29 18:41:01 +0000 2020
+    :id: 1333118786522783745
+    :id_str: '1333118786522783745'
+    :text: 'Running Ruby on RISC-V: https://t.co/Q3agWZAOWU (In the wake of the M1
+      Macs, Mike takes a look at another architect… https://t.co/QSse26Zhpb'
+    :truncated: true
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/Q3agWZAOWU
+        :expanded_url: https://www.mikeperham.com/2020/11/21/running-ruby-on-risc-v/
+        :display_url: mikeperham.com/2020/11/21/run…
+        :indices:
+        - 24
+        - 47
+      - :url: https://t.co/QSse26Zhpb
+        :expanded_url: https://twitter.com/i/web/status/1333118786522783745
+        :display_url: twitter.com/i/web/status/1…
+        :indices:
+        - 117
+        - 140
+    :source: <a href="https://buffer.com" rel="nofollow">Buffer</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 15851832
+      :id_str: '15851832'
+      :name: Ruby Inside
+      :screen_name: RubyInside
+      :location: Sign up at the website ⬇️
+      :description: 'A free, once–weekly email round-up of #Ruby news and articles.'
+      :url: https://t.co/EImddpDqh3
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/EImddpDqh3
+            :expanded_url: http://rubyweekly.com
+            :display_url: rubyweekly.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 45458
+      :friends_count: 48
+      :listed_count: 1536
+      :created_at: Thu Aug 14 15:47:59 +0000 2008
+      :favourites_count: 141
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 7607
+      :lang: 
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/877468597483962371/u485Dbl9_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/15851832/1498039988
+      :profile_link_color: BE1E2D
+      :profile_sidebar_border_color: CD2C2C
+      :profile_sidebar_fill_color: FFDADA
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 2
+    :favorite_count: 18
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: en
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Running Ruby on RISC-V: https://t.co/Q3agWZAOWU (In the wake of the
+          M1 Macs, Mike takes a look at another architect… https://t.co/QSse26Zhpb'
+        :full_text: 'Running Ruby on RISC-V: https://t.co/Q3agWZAOWU (In the wake
+          of the M1 Macs, Mike takes a look at another architect… https://t.co/QSse26Zhpb'
+      default_proc: 
+    monitor: !ruby/object:Monitor {}
