@@ -1,31 +1,12 @@
 #!/usr/bin/env ruby
 
+require_relative '../lib/tweets'
+require_relative '../lib/quotes'
 require 'colorize'
 require 'twitter'
 require 'yaml'
+require 'json'
 
 puts 'hello'
 
-client = Twitter::REST::Client.new do |config|
-  config.consumer_key = 'fhjQSrJheja0NOGTnQrBlx7zc'
-  config.consumer_secret = 'BKa35FUsdvmyTAhPBz8wDiGNZ3m0b5xoChI7PtjTxNgk0ZfBhj'
-  config.access_token = '1335387040687460352-tsQDDv2MHY7VhgibdlIu2nkHsDDmnX'
-  config.access_token_secret = 'paHp1Ht3cDePWdlcJi1Px56nFAgeHoMfjUnrWbEnxt8aZ'
-end
-
-# tweets = client.user_timeline('rubyinside', count: 20)
-# tweets.each { |tweet| puts tweet.full_text }
-# File.write('tweets.yml', YAML.dump(tweets))
-# tweets = YAML.load_file('tweets.yml')
-
-client.update("I'm having some fun with the Twitter gem!")
-client.update('please, dont give up')
-
-client.search('#ruby').take(3).each do |tweet|
-  client.update("@#{tweet.user} Hey I love Ruby too, what are your favorite blogs? :)")
-end
-
-# 10.times do
-#   client.update(b_qtes.sample)
-#   sleep(2.minutes)
-# end
+Tweets.new
