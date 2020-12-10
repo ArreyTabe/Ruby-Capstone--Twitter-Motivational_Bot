@@ -2,7 +2,7 @@ require 'json'
 require 'twitter'
 require 'net/http'
 require 'open-uri'
-require_relative 'tweets'
+require_relative 'tweet'
 
 class Quotes
   @values = nil

@@ -4,9 +4,9 @@ require 'twitter'
 require 'yaml'
 require 'json'
 require 'dotenv'
-require_relative '../lib/tweets'
+require_relative '../lib/tweet'
 require_relative '../lib/quotes'
 
 puts 'hello'
 
-Tweets.new
+Tweet.new
