@@ -14,8 +14,9 @@ class Quotes
   def make_the_request
     url = 'https://type.fit/api/quotes'
     uri = URI(url)
-    response = Net::HTTP.get_response(uri)
-    JSON.parse(response.body)
+    response = Net::HTTP.get(uri)
+    JSON.parse(response)
+    response
   end
 
   def random_quotes

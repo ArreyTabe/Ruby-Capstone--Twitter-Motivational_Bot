@@ -5,11 +5,11 @@ GEM
       public_suffix (>= 2.0.2, < 5.0)
     ast (2.4.1)
     buftok (0.2.0)
-    colorize (0.8.1)
     connection_pool (2.2.3)
     diff-lcs (1.4.4)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
+    dotenv (2.7.6)
     equalizer (0.0.11)
     ffi (1.13.1)
     ffi-compiler (1.0.1)
@@ -98,7 +98,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  colorize
+  dotenv
   httparty
   json
   net-http-persistent

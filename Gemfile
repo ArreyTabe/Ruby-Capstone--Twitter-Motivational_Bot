@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'colorize'
+gem 'dotenv'
 gem 'httparty'
 gem 'json'
 gem 'net-http-persistent'

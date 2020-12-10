@@ -1,11 +1,11 @@
 #!/usr/bin/env ruby
 
-require_relative '../lib/tweets'
-require_relative '../lib/quotes'
-require 'colorize'
 require 'twitter'
 require 'yaml'
 require 'json'
+require 'dotenv'
+require_relative '../lib/tweets'
+require_relative '../lib/quotes'
 
 puts 'hello'
 
