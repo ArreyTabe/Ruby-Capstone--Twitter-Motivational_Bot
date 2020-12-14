@@ -5,8 +5,6 @@
 A twitter Bot that uses the twitter API to occasionally send Motivational quotes. You can use this to stay Motivated during high stress levels and low motivation levels.
 It can be initialized on the command line(windows) / terminal(mac &amp; linux) where it tweets    motivational messages(quotes).
 
-## How to  install and use this Bot
-
 
 ## Built With
 
@@ -53,12 +51,11 @@ It can be initialized on the command line(windows) / terminal(mac &amp; linux) w
 
    ```console
    rspec tweet_spec_tests.rb
+   ```
 
 
+##  Designed With
 
-
-
-## Designed With
 - Ruby
 - Git
 - Rubocop
