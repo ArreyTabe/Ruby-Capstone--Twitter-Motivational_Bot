@@ -6,13 +6,13 @@ require 'json'
 require 'dotenv'
 require 'httparty'
 require_relative '../lib/tweet'
-require_relative '../lib/parsedata'
 
 Dotenv.load
 
 puts 'hello'
 
 Tweet.new(ENV)
+# puts ENV.class
 # Parsed.new
 # @client.update(@random_quote_u)
 # client.update(r_collected_quotes)
