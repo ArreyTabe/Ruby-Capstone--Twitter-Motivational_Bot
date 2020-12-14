@@ -4,9 +4,14 @@ require 'twitter'
 require 'yaml'
 require 'json'
 require 'dotenv'
+require 'httparty'
 require_relative '../lib/tweet'
-require_relative '../lib/quotes'
+require_relative '../lib/parsedata'
+
+Dotenv.load
 
 puts 'hello'
 
-Tweet.new
+Tweet.new(ENV)
+
+Parsed.new
