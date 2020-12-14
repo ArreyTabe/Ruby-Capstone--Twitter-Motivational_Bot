@@ -1,4 +1,5 @@
 require 'twitter'
+require_relative '../lib/parsedata'
 
 
 class Tweet
@@ -10,6 +11,8 @@ class Tweet
       config.access_token = @ENV['TWITTER_ACCESS_TOKEN']
       config.access_token_secret = @ENV['TWITTER_ACCESS_TOKEN_SECRET']
     end
-    client.update('seems goood')
+    # @client.update('seems goood')
+    client.update('try harder')
+  
   end
 end
