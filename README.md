@@ -78,7 +78,7 @@ Contributions, issues, and feature requests are welcome! Start by:
 
 ## Live Demo
 
-[Live Demo Link](https://repl.it/github/krishnzzz/tic_tac_toe)
+[Live Demo Link](https://repl.it/@ARREYAFFTABE/Ruby-Capstone-Twitter-MotivationalBot-1#README.md)
 
 ## Contributors
 
