@@ -13,5 +13,6 @@ Dotenv.load
 puts 'hello'
 
 Tweet.new(ENV)
-Parsed.new
+# Parsed.new
+# @client.update(@random_quote_u)
 # client.update(r_collected_quotes)
