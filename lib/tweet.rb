@@ -3,13 +3,12 @@ require 'open-uri'
 require 'nokogiri'
 require 'json'
 
-
 class Tweet
   attr_accessor :client
 
   def initialize(env)
     @url = 'https://www.thecoderpedia.com/blog/programming-quotes/'
-    @html = URI.open(@url)
+    @html = URI.parse(@url).open
     @doc = Nokogiri::HTML(@html)
     @quotes = obtain_quotes
     @ENV = env
@@ -19,9 +18,8 @@ class Tweet
       config.access_token = @ENV['TWITTER_ACCESS_TOKEN']
       config.access_token_secret = @ENV['TWITTER_ACCESS_TOKEN_SECRET']
     end
-     @client.update(@random_quote_u)
+    @client.update(@random_quote_u)
   end
-
 
   def sub_key_val(quote_text)
     quote_text.chars.each_with_index do |k, ind|
@@ -50,9 +48,8 @@ class Tweet
     random_quote_key = rand(quotes[0]['num']..quotes[quotes.length - 1]['num'])
 
     @random_quote_u = quotes.select { |x| x['num'] == random_quote_key }.first['content']
-      @random_quote_u
+    @random_quote_u
 
     # @client.update(@random_quote_u)
-   
   end
 end

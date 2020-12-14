@@ -1,10 +1,9 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Motivational Twitter-Bot
 
-## Motivational Twitter-Bot
+![microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
 A twitter Bot that uses the twitter API to occasionally send Motivational quotes. You can use this to stay Motivated during high stress levels and low motivation levels.
-It can be initialized on the command line(windows) / terminal(mac &amp; linux) where it tweets    motivational messages(quotes).
-
+It can be initialized on the command line(windows) / terminal(mac &amp; linux) where it tweets motivational messages(quotes).
 
 ## Built With
 
@@ -15,46 +14,44 @@ It can be initialized on the command line(windows) / terminal(mac &amp; linux) w
 - Twitter-gem
 - Open URI
 
-- 
+-
 
 ## How to Install
 
 - Install Ruby in your system. To install Ruby, you can read the [Documentation](https://www.ruby-lang.org/en/documentation/installation/)
- If you have installed Git in your system, you can clone it using  **git clone** command.
-- Clone the project by running   https://github.com/ArreyTabe/Ruby-Capstone--Twitter-Motivational_Bot.git on Terminal/CMD or download and extract it from the repository. OR
- Download it as a [Zip File](https://github.com/ArreyTabe/Ruby-Capstone--Twitter-Motivational_Bot.git`).
-- Open Terminal/CMD and cd into the  the folder you downloaded or cloned.
+  If you have installed Git in your system, you can clone it using **git clone** command.
+- Clone the project by running ```https://github.com/ArreyTabe/Ruby-Capstone--Twitter-Motivational_Bot.git``` on Terminal/CMD or download and extract it from the repository. OR
+  Download it as a [Zip File](https://github.com/ArreyTabe/Ruby-Capstone--Twitter-Motivational_Bot.git`).
+- Open Terminal/CMD and cd into the the folder you downloaded or cloned.
 - Run `main`
 - Navigate to your twitter account
 
 - On your twitter account search for :
-  ```
-  afftech1
 
-   ``` 
+  ```afftech1
+  ```
+
 - Then press the /START button and follow the steps given
 
      <!-- ![](img/.com-crop.gif) -->
 
 ## How to Test the Methods In the Classes
 
+Install Rspec gem in your system. To do this:
 
- Install Rspec gem in your system. To do this:
+Open Command Prompt or Terminal and run:
 
- Open Command Prompt or Terminal and run:
+```console
+gem install Rspec
+```
 
-  ```console
-  gem install Rspec
-  ```
+Navigate into the spec folder and run the following at the console:
 
- Navigate into the spec folder and run the following at the console:
+```console
+rspec tweet_spec_tests.rb
+```
 
-   ```console
-   rspec tweet_spec_tests.rb
-   ```
-
-
-##  Designed With
+## Designed With
 
 - Ruby
 - Git
@@ -62,28 +59,23 @@ It can be initialized on the command line(windows) / terminal(mac &amp; linux) w
 - VS Code
 - Repl.it
 
-
 ## Contributing
 
 Contributions, issues, and feature requests are welcome! Start by:
 
-  - Forking the project
-  - Cloning the project to your local machine
-  - cd into the project directory
-  - Run git checkout -b your-branch-name
-  - Make your contributions
-  - Push your branch up to your forked repository
-  - Open a Pull Request with a detailed description of the development branch of the original project for a review
-
+- Forking the project
+- Cloning the project to your local machine
+- cd into the project directory
+- Run git checkout -b your-branch-name
+- Make your contributions
+- Push your branch up to your forked repository
+- Open a Pull Request with a detailed description of the development branch of the original project for a review
 
 ## Live Demo
 
 [Live Demo Link](https://repl.it/@ARREYAFFTABE/Ruby-Capstone-Twitter-MotivationalBot-1#README.md)
 
 ## Contributors
-
-
-
 
 👤 **Arrey Tabe**
 
@@ -93,7 +85,7 @@ Contributions, issues, and feature requests are welcome! Start by:
 
 ## Show your support
 
-Give a  ⭐️ if you like this project!
+Give a ⭐️ if you like this project!
 
 ## 📝 License
 
