@@ -64,9 +64,6 @@ Contributions, issues, and feature requests are welcome! Start by:
 - Push your branch up to your forked repository
 - Open a Pull Request with a detailed description of the development branch of the original project for a review
 
-## Live Demo
-
-[Live Demo Link](https://repl.it/@ARREYAFFTABE/Ruby-Capstone-Twitter-MotivationalBot-1#README.md)
 
 ## Author
 
@@ -84,7 +81,7 @@ Contributions, issues, and feature requests are welcome! Start by:
 - [Ruby twitter bot tutorial](http://jenniferkruse.me/twitterbot.html) helped me and most especially in deploying to heroku
 - [How to apply for a Twitter Developer account](https://www.extly.com/docs/autotweetng_joocial/tutorials/how-to-auto-post-from-joomla-to-twitter/apply-for-a-twitter-developer-account/#apply-for-a-developer-account) gave me an insight on how i could apply for and get my twitter developer account approved
 - Microverse students
-- [Learn to Use the Twitter API with Ruby](https://www.rubyguides.com/2016/04/twitter-api-from-ruby-tutorial/)
+- [Learn to Use the Twitter API with Ruby](https://www.rubyguides.com/2016/04/twitter-api-from-ruby-tutorial/) from rubyguides
 
 ## Show your support
 
