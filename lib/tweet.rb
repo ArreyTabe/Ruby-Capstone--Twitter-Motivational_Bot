@@ -20,9 +20,7 @@ class Tweet
       config.access_token_secret = env['TWITTER_ACCESS_TOKEN_SECRET']
     end
     @client.update(@random_quote_u)
-    @client.mentions_timeline
-    @client.user('gem')
-    @client.update('hthehte')
+   
   end
 
   def sub_key_val(_quote_text)
