@@ -6,6 +6,7 @@ require 'httparty'
 require_relative '../lib/tweet'
 
 Dotenv.load
+
 describe Tweet do
   let(:tweet) { Tweet.new(ENV) }
 
