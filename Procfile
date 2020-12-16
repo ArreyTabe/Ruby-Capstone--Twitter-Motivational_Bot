@@ -1,1 +1,1 @@
-worker: bundle exec bin/main
+worker: bundle exec main

@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 ruby '2.7.0'
+gem 'bundle'
 gem 'byebug'
 gem 'dotenv'
 gem 'httparty'
