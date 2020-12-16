@@ -83,9 +83,7 @@ Contributions, issues, and feature requests are welcome! Start by:
 - [web scapping with Ruby](https://www.scrapingbee.com/blog/web-scraping-ruby/#make-a-request-with-http-clients-in-ruby) Helped me in scappinng my site
 - [Ruby twitter bot tutorial](http://jenniferkruse.me/twitterbot.html) helped me and most especially in deploying to heroku
 - [How to apply for a Twitter Developer account](https://www.extly.com/docs/autotweetng_joocial/tutorials/how-to-auto-post-from-joomla-to-twitter/apply-for-a-twitter-developer-account/#apply-for-a-developer-account) gave me an insight on how i could apply for and get my twitter developer account approved
-- [Eric](https://github.com/rukundoeric)
-- [https://github.com/jubaan](https://github.com/che30)
-- [Alvaro](https://github.com/pointerish)
+- Microverse students
 - [Learn to Use the Twitter API with Ruby](https://www.rubyguides.com/2016/04/twitter-api-from-ruby-tutorial/)
 
 ## Show your support
