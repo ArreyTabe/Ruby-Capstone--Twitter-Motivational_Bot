@@ -18,23 +18,39 @@ It can be initialized on the command line(windows) / terminal(mac &amp; linux) w
 
 ## How to Install
 
+`afftech` uses the `dotenv` gem in order to access Environment Variables for the required API key and Twitter access tokens.
+
+Follow the next steps to configure all that's needed:
+
+
 - Install Ruby in your system. To install Ruby, you can read the [Documentation](https://www.ruby-lang.org/en/documentation/installation/)
-  If you have installed Git in your system, you can clone it using **git clone** command.
+  If you have installed [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) in your system, you can clone it using **git clone** command.
 - Clone the project by running `https://github.com/ArreyTabe/Ruby-Capstone--Twitter-Motivational_Bot.git` on Terminal/CMD or download and extract it from the repository. OR
   Download it as a [Zip File](https://github.com/ArreyTabe/Ruby-Capstone--Twitter-Motivational_Bot.git`).
 - Open Terminal/CMD and cd into the the folder you downloaded or cloned.
-- Run `main`
+- Execute `touch .env` from the projects root directory
+- make sure you have a [twitter devolper account](https://developer.twitter.com/en/apply-for-access), go to your dashboard and while still logged into your twitter account,the first thing you want to do is create a new app. For convenience, use the same name as your  account.
+- Adjust the permissions to `Read and write`
+- Next, go to the API Keys page and click “Generate my Access Token,” and then copy:
+
+- **Consumer Key**
+
+- **Consumer Secret**
+
+- **Access Token**
+
+- **Access Token Secret**
+
+- On your `.env` file add your token like this:
+
+ - config.consumer_key        = "YOUR_CONSUMER_KEY"
+ - config.consumer_secret     = "YOUR_CONSUMER_SECRET"
+ - config.access_token        = "YOUR_ACCESS_TOKEN"
+ - config.access_token_secret = "YOUR_ACCESS_SECRET"
+
+- Run `bundle install` from the project's root directory to install dependencies.
+- Run `bundle exec bin/main.rb'
 - Navigate to your twitter account
-
-- On your twitter account search for :
-
-  ```afftech1
-
-  ```
-
-- Then press the /START button and follow the steps given
-
-     <!-- ![](img/.com-crop.gif) -->
 
 ## How to Test the Methods In the Classes
 
@@ -49,8 +65,23 @@ gem install Rspec
 Navigate into the spec folder and run the following at the console:
 
 ```console
-rspec tweet_spec_tests.rb
+testing_tweetbot_spec.rb
 ```
+## Deployment to Heroku
+
+In order to deploy the bot to Heroku you need a free Heroku account and follow the next steps:
+
+- Go to your [Heroku Dashboard](https://dashboard.heroku.com/apps) and click on the `New` button located on the top-right corner.
+
+- Click on `Create new app` and then give it a name.
+- Select a Deployment Method. GitHub is the easiest one since you only need to provide your credentials. To deploy from GitHub you need to have a copy of the source code hosted there, so do that before selecting GitHub as deployment method.
+
+<b>Remember NOT to commit API credentials to public places.</b> The `.gitignore` file should handle that already but make sure you're not doing it.
+
+- Set your API Credentials in Heroku as Environment Variables by clicking on the `Settings` tab and then adding them to the `Config Vars` section.
+- Go to the `Resources` tab on Heroku and click on the pencil icon to edit the Heroku Dyno. 
+- Turn it on and click on Confirm. Once you do that everything should be ready.
+
 
 ## Contributing
 
@@ -63,6 +94,7 @@ Contributions, issues, and feature requests are welcome! Start by:
 - Make your contributions
 - Push your branch up to your forked repository
 - Open a Pull Request with a detailed description of the development branch of the original project for a review
+- [here is the issue link you can follow as well](https://github.com/ArreyTabe/Ruby-Capstone--Twitter-Motivational_Bot/issues)
 
 
 ## Author
