@@ -9,6 +9,4 @@ require_relative '../lib/tweet'
 
 Dotenv.load
 
-puts 'hello'
-
 Tweet.new(ENV)

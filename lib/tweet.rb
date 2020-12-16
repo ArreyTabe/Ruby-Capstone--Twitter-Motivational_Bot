@@ -11,12 +11,12 @@ class Tweet
     @html = URI.parse(@url).open
     @doc = Nokogiri::HTML(@html)
     @quotes = obtain_quotes
-    @env = env
+    @ENV = env
     @client = Twitter::REST::Client.new do |config|
-      config.consumer_key = @env['TWITTER_CONSUMER_KEY']
-      config.consumer_secret = @env['TWITTER_CONSUMER_SECRET']
-      config.access_token = @env['TWITTER_ACCESS_TOKEN']
-      config.access_token_secret = @env['TWITTER_ACCESS_TOKEN_SECRET']
+      config.consumer_key = @ENV['TWITTER_CONSUMER_KEY']
+      config.consumer_secret = @ENV['TWITTER_CONSUMER_SECRET']
+      config.access_token = @ENV['TWITTER_ACCESS_TOKEN']
+      config.access_token_secret = @ENV['TWITTER_ACCESS_TOKEN_SECRET']
     end
     @client.update(@random_quote_u)
   end
@@ -42,13 +42,11 @@ class Tweet
 
       i += 1
     end
-    # collected_quotes = JSON.pretty_generate(quotes)
+    collected_quotes = JSON.pretty_generate(quotes)
 
     random_quote_key = rand(quotes[0]['num']..quotes[quotes.length - 1]['num'])
 
     @random_quote_u = quotes.select { |x| x['num'] == random_quote_key }.first['content']
     @random_quote_u
-    # collected_quotes
-    # puts  obtain_quotes.class
   end
 end

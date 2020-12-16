@@ -44,6 +44,7 @@ GEM
     naught (1.1.0)
     net-http-persistent (4.0.0)
       connection_pool (~> 2.2)
+    nio4r (2.5.4)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     parallel (1.20.1)
@@ -53,6 +54,8 @@ GEM
       coderay (~> 1.1)
       method_source (~> 1.0)
     public_suffix (4.0.6)
+    puma (5.1.1)
+      nio4r (~> 2.0)
     rainbow (3.0.0)
     rake (13.0.1)
     regexp_parser (2.0.0)
@@ -111,10 +114,14 @@ DEPENDENCIES
   net-http-persistent
   nokogiri
   pry
+  puma
   rake
   rspec
   rubocop
   twitter
+
+RUBY VERSION
+   ruby 2.7.0p0
 
 BUNDLED WITH
    2.2.1
