@@ -1,0 +1,13 @@
+current directory: /home/afftechonenation/Microverse_projects/Ruby-Capstone--Twitter-Motivational_Bot/.bundle/ruby/2.7.0/gems/json-2.4.0/ext/json
+/home/afftechonenation/.rbenv/versions/2.7.0/bin/ruby -I /home/afftechonenation/.rbenv/versions/2.7.0/lib/ruby/site_ruby/2.7.0 -r ./siteconf20201216-23875-qclhdp.rb extconf.rb
+creating Makefile
+
+current directory: /home/afftechonenation/Microverse_projects/Ruby-Capstone--Twitter-Motivational_Bot/.bundle/ruby/2.7.0/gems/json-2.4.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/afftechonenation/Microverse_projects/Ruby-Capstone--Twitter-Motivational_Bot/.bundle/ruby/2.7.0/gems/json-2.4.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/afftechonenation/Microverse_projects/Ruby-Capstone--Twitter-Motivational_Bot/.bundle/ruby/2.7.0/gems/json-2.4.0/ext/json
+make "DESTDIR=" install
