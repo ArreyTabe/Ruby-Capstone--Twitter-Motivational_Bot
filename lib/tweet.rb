@@ -4,8 +4,6 @@ require 'nokogiri'
 require 'json'
 
 class Tweet
-  # attr_accessor :client
-
   Dotenv.load
   def initialize(env)
     @url = 'https://www.thecoderpedia.com/blog/programming-quotes/'
