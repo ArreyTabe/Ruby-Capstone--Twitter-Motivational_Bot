@@ -32,10 +32,6 @@ It can be initialized on the command line(windows) / terminal(mac &amp; linux) w
 
   ```
 
-- Then press the /START button and follow the steps given
-
-     <!-- ![](img/.com-crop.gif) -->
-
 ## How to Test the Methods In the Classes
 
 Install Rspec gem in your system. To do this:
@@ -51,6 +47,10 @@ Navigate into the spec folder and run the following at the console:
 ```console
 rspec tweet_spec_tests.rb
 ```
+
+_Twitter bot screenshot_
+
+<p align="center"><img src="./assets/twitter-bot.png"></p>
 
 ## Contributing
 
