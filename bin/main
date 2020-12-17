@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+require 'twitter'
+require 'yaml'
+require 'json'
+require 'dotenv'
+require 'httparty'
+require_relative '../lib/tweet'
+
+Dotenv.load
+
+Tweet.new(ENV)
