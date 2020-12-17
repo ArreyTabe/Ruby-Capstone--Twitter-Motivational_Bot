@@ -38,7 +38,6 @@ class Tweet
       quotes.push(my_hash)
       i += 1
     end
-    # collected_quotes = JSON.pretty_generate(quotes)
     random_quote_key = rand(quotes[0]['num']..quotes[quotes.length - 1]['num'])
     @random_quote_u = quotes.select { |x| x['num'] == random_quote_key }.first['content']
   end
